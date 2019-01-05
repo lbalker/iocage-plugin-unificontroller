@@ -1,2 +1,2 @@
-# iocage-plugin-unifictrl
-FreeNAS plugin for Unifi Ctrl
+# iocage-plugin-unificontroller
+FreeNAS plugin for Unifi Controller
